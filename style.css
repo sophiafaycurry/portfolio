@@ -1,0 +1,27 @@
+
+.header {
+    position: sticky;
+    margin: 0;  
+    top: 0;
+    padding: 10px 16px;
+    background: #ecfff3;
+    color: #000000;
+  }
+
+  body {
+    background-color: #e3ffd7;
+    font-family:Georgia;
+}
+
+h1 {
+    color: #333;
+}
+
+h3 { 
+    padding: 5;
+    margin: 0;
+
+}
+p { 
+    margin: 0;
+}
